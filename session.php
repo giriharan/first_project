@@ -2,6 +2,7 @@
 session_start();
 ?>
 <html>
+  input 
 <form action= "textbox.php" method="post">
 giri
   haraghjkl;
