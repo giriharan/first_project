@@ -2,7 +2,7 @@
 session_start();
 ?>
 <html>
-  input  type="name" value="submit"
+  input  type="name" value="submit"....
 <form action= "textbox.php" method="post">
 
 <input type="text" name="uname"/><br>
